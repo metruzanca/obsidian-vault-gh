@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "396647a68fe48e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "f385112437e4a78c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d48684155685123d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac5a4c3bb011b444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "706881a3f7fda681",
+    "type": "split",
+    "children": [
+      {
+        "id": "8856d6bfb87d8dee",
+        "type": "tabs",
+        "dimension": 65.80817051509769,
+        "children": [
+          {
+            "id": "9fbbae833b15599d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea19fbf46b63960f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4e088daa1c6b397b",
+        "type": "tabs",
+        "dimension": 34.19182948490231,
+        "children": [
+          {
+            "id": "962fc11ac6709aff",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d38ef2add499ad23",
+    "type": "split",
+    "children": [
+      {
+        "id": "e154e9dce0148ab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5763e81bcf45f759",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b570907f29ee6a6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09df95563fd932d6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "09df95563fd932d6",
+  "lastOpenFiles": [
+    "readme.md",
+    "docs/readme.md",
+    "docs/Other-file.md",
+    "docs"
+  ]
+}

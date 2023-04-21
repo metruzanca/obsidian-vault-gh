@@ -1,0 +1,16 @@
+{
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "foldIndent": false,
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "spellcheck": true,
+  "trashOption": "none",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./"
+}
